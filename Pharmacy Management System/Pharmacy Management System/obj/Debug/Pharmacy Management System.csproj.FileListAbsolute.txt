@@ -1,0 +1,20 @@
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Pharmacist.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Registration.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.medicineinfo.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.PharmacistInfo.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicinestatus.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Payment.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.SalesAccount.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojAssemblyReference.cache
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.PaymentStatus.resources
+C:\Users\USER OS\Desktop\Pharmacy management  System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.SalesStatus.resources
